@@ -31,3 +31,6 @@
 [submodule "src/external/crypto-algorithms"]
 	path = src/external/crypto-algorithms
 	url = https://github.com/B-Con/crypto-algorithms.git
+[submodule "src/external/unicorn"]
+	path = src/external/unicorn
+	url = https://github.com/unicorn-engine/unicorn
